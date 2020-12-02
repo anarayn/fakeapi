@@ -44,10 +44,25 @@
     "Societe_Generale": "Société Générale",
     "Societe_Marseillaise_de_Credit": "Société Marseillaise de Crédit"
 },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "professional-status": {
+    "CadreAssimileCadre": "Salarié cadre, ingénieur, assimilé-cadre",
+    "SalarieNonCadre": "Salarié non cadre (hors employé de bureau), agent de maîtrise",
+    "EmployeBureauCommercial": "Employé de bureau, commercial sédentaire",
+    "DirigeantGerant": "Dirigeant de société, gérant, chef d'entreprise (hors agricole)",
+    "ProfessionLiberale": "Profession libérale (hors médical et paramédical)",
+    "Medecin": "Médecin (ou interne) généraliste ou spécialiste",
+    "AutresMetiersMedicaux": "Autres métiers médicaux et paramédicaux",
+    "FonctionnaireClasseA": "Fonctionnaire classe A",
+    "FonctionnaireHorsClasseA": "Fonctionnaire hors classe A",
+    "Artisan": "Artisan, métiers du BTP, auto-entrepreneur",
+    "Commercant": "Commerçant",
+    "Ouvrier": "Professions du transport, ouvriers, technicien",
+    "ExploitantAgricole": "Professions agricoles",
+    "Retraite": "Retraité : cadre, assimilé-cadre, fonctionnaire classe A, chef d'Entreprise, profession libérale",
+    "AutresRetraites": "Autres retraités",
+    "Intermittent": "Intermittent",
+    "SansProfession": "Sans profession, étudiant, saisonnier"
+},
   "profile": {
     "name": "typicode"
   }
